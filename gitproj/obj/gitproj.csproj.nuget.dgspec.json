@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Projects\\netapps\\gitrepo\\gitproj\\gitproj\\gitproj.csproj": {}
+    "C:\\Users\\admin\\Desktop\\ananddonepudi\\gitproj\\gitproj\\gitproj.csproj": {}
   },
   "projects": {
-    "C:\\Projects\\netapps\\gitrepo\\gitproj\\gitproj\\gitproj.csproj": {
+    "C:\\Users\\admin\\Desktop\\ananddonepudi\\gitproj\\gitproj\\gitproj.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Projects\\netapps\\gitrepo\\gitproj\\gitproj\\gitproj.csproj",
+        "projectUniqueName": "C:\\Users\\admin\\Desktop\\ananddonepudi\\gitproj\\gitproj\\gitproj.csproj",
         "projectName": "gitproj",
-        "projectPath": "C:\\Projects\\netapps\\gitrepo\\gitproj\\gitproj\\gitproj.csproj",
+        "projectPath": "C:\\Users\\admin\\Desktop\\ananddonepudi\\gitproj\\gitproj\\gitproj.csproj",
         "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Projects\\netapps\\gitrepo\\gitproj\\gitproj\\obj\\",
+        "outputPath": "C:\\Users\\admin\\Desktop\\ananddonepudi\\gitproj\\gitproj\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
